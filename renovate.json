@@ -10,6 +10,13 @@
         "npm"
       ],
       "minimumReleaseAge": "300 days"
+    },
+    {
+      "description": "Avoid packages that might have a security issue",
+      "matchDatasources": [
+        "github-tags"
+      ],
+      "minimumReleaseAge": "300 days"
     }
   ],
   "branchConcurrentLimit": 0,
