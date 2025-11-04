@@ -3,6 +3,7 @@
   "extends": [
     "config:recommended"
   ],
+  "minimumReleaseAgeBehaviour": "timestamp-required",
   "packageRules": [
     {
       "description": "Avoid packages that might have a security issue",
