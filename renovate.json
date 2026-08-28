@@ -24,7 +24,7 @@
       "matchDatasources": [
         "docker"
       ],
-      "minimumReleaseAge": "300 days"
+      "minimumReleaseAge": "30 days"
     }
   ],
   "branchConcurrentLimit": 0,
